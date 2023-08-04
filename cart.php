@@ -4,6 +4,7 @@ require("layout/navbar.php");
 require_once("Controllers/Database/Connect.php");
 ?>
 
+
 <body>
     <!-- Page Header Start -->
     <div class="container-fluid bg-secondary mb-5">
